@@ -3,9 +3,9 @@ id: f9ey0l0ianry
 type: track
 title: UCLA Health - Terraform Cloud with Azure
 teaser: |
-  Join the UCLA devops team on their journey to fully automated provisioning with Azure Cloud.
+  Join the UCLA DevOps team on their journey to fully automated provisioning with Azure Cloud.
 description: |-
-  Work with the devops team at Acme  as they go from manual provisioning with Terraform to a fully automated devops workflow with code reviews, testing, and automated provisioning in Azure Cloud. This workshop covers the following topics:
+  Work with the DevOps team at UCLA Health as they go from manual provisioning with Terraform to a fully automated DevOps workflow with code reviews, testing, and automated provisioning in Azure Cloud. This workshop covers the following topics:
 
   * Terraform Open Source
   * Terraform Cloud
@@ -314,7 +314,7 @@ challenges:
   notes:
   - type: text
     contents: "A few months go by and you continue building more infrastructure with
-      Terraform Cloud. The devops team are all familiar with Terraform, but some members
+      Terraform Cloud. The DevOps team are all familiar with Terraform, but some members
       are unable to access the Terraform Cloud organization. Your manager Hiro steps
       into your cubicle with a clipboard in hand:\n\n>\U0001F468\U0001F3FB‍\U0001F4BC
       Thank you for all your hard work on this Terraform project. I'd like to have
@@ -637,7 +637,7 @@ challenges:
     git pull
     ```
 
-    Then, add the **Department** tag with a value of "devops" to the azurerm_virtual_machine resource in your main.tf file. Be sure to save the file.
+    Then, add the **Department** tag with a value of "DevOps" to the azurerm_virtual_machine resource in your main.tf file. Be sure to save the file.
 
     Then run the following commands to push the change to your forked repository:
 
@@ -702,7 +702,7 @@ challenges:
     Some of your users want a simple way to deploy databases and network configurations. Enter the Private Module Registry, in which you can store standard, re-usable Terraform code that others can use in their own workspaces.
   notes:
   - type: text
-    contents: "Most of the devops team is using Terraform to build and configure their
+    contents: "Most of the DevOps team is using Terraform to build and configure their
       infrastructure. Recently users from outside the team have been requesting help
       building their own workspaces. Gaurav, the database admin, sees you at lunch
       and asks for your help:\n>\U0001F473\U0001F3FE‍♂️ Hi senior sysadmin, I need
@@ -753,7 +753,7 @@ challenges:
   notes:
   - type: text
     contents: "You've mostly been using the Terraform Cloud Web UI and command line
-      interface (CLI) to build infrastructure. The devops team needs to integrate
+      interface (CLI) to build infrastructure. The DevOps team needs to integrate
       with their CI/CD tool via the API. Lars sends you a chat message:\n\n>\U0001F468\U0001F3FB‍\U0001F9B2
       Hey senior sysadmin, we have this new continuous integration tool that the developers
       are using to test their application code. I'd like you to test some API calls
