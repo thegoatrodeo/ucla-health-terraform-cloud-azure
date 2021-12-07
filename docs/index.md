@@ -4,9 +4,9 @@ count: false
 <br><br>
 ![:scale 60%](images/tf_az.png)
 <br><br>
-# Terraform Cloud on Azure
+# Terraform Cloud on Azure Workshop
 
-???
+
 **Welcome to the Terraform Cloud on Azure workshop. This is a one day workshop that introduces free and paid features of Terraform Cloud (also Enterprise) using an Azure-based application for the tech labs. If you're brand new to Terraform you should try the Introduction to Terraform OSS on Azure Instruqt track before this one.**
 
 **Terraform Cloud and Terraform Enterprise have almost identical feature sets so we'll be using Terraform Cloud as our training environment today.**
@@ -43,10 +43,17 @@ layout: true
 ---
 name: Introductions
 # Introductions
-- Your Name
-- Job Title
-- Automation Experience
-- Favorite Text Editor
+## Jitin Aware
+- Sr. Solutions Engineer, US Federal
+- Day 86 @ Hashicorp (or 7,430,400 seconds)
+- Previously: Splunk SE & NIH InfraSec Engineer
+- Also: M.Eng Cybersecurity 
+- Will code for Korean BBQ
+
+## Dan Fedick
+- Sr. Solutions Engineer, US Federal
+- Fact 2
+- fact 3
 
 ???
 **Let's start with introductions. Give us your name, job title, any automation experience, and finally your favorite text editor. There are no wrong answers here. Except for Notepad. Notepad++ is ok though.**
